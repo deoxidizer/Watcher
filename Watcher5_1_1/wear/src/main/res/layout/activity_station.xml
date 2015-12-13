@@ -11,10 +11,12 @@
     tools:context="com.example.watcher5_1_1.watcher5_1_1.station">
 
     <ListView
-        android:layout_width="wrap_content"
-        android:layout_height="50dp"
+
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
         android:id="@+id/listViewStation"
         android:layout_weight="1"
+        android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
         android:layout_alignParentStart="true" />
 
