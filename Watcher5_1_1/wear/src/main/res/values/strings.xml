@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Watcher5_1_1</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="title_activity_splashscreen">Splashscreen</string>
+    <string name="title_activity_stationen">stationen</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_station">station</string>
+</resources>
